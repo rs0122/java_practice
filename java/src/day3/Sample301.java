@@ -1,0 +1,17 @@
+package day3;
+
+public class Sample301 {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+        //標準出力
+        int a = 10; //  整数値（いろいろ変えてみましょう）
+        System.out.println("a="+a);
+        //  入力した値が、正の数かどうかを調べる
+        if(a > 0){
+            System.out.println("aは正の数です。");  //  正の数だった場合に実行
+        }	
+        System.out.println(a > 0);
+	}
+
+}
