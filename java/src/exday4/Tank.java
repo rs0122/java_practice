@@ -19,6 +19,6 @@ public class Tank extends Weapon implements ICar,ICannon {
         System.out.println("--------------");
         fire();
         move();
-        System.out.println("--------------");
+        System.out.println("------------");
     }
 }
